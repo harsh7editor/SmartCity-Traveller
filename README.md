@@ -1,50 +1,9 @@
+
+![Screenshot 2024-11-17 140525](https://github.com/user-attachments/assets/b93b8ae9-6cfe-4a2c-87fc-71b3bd00947b)
+
+
 <h1 align="center"> Smart-City-Traveller </h1>
 <p align="center">
-<img src="./img/icon.png" alt="smart-city-traveller" width="20%" align = "center">
-</p>
-
-
-[<img alt="watch video" width="120px" src="./img/watchVideo.png" />](https://youtu.be/a3OAVr1kiqc)
-
-- It is an Application that helps a traveler visiting a city to explore and navigate places of their choice in a very Simple way without typing and deciding which place is best and which is not.
-
-- It is developed using `XML`, `Java` and `Foursquare API`.
-
-<img src="./img/used.png" alt="smart-city-traveller" width="400" align = "center">
-
-## Layout
-
-![layout](./img/layout.png)
-
-## Screenshots of the app
-
-### Home Screen
-
-<img src="./img/homeScreen.jpg" alt="home" width="30%" >
-
-### Input City Name
-
-<img src="./img/inputCity1.jpg" alt="inputCityName" width="30%" > <img src="./img/inputCity2.jpg" alt="inputCityName" width="30%" > <img src="./img/inputCity3.jpg" alt="inputCityName" width="30%" >
-
-### Choose Category
-
-<img src="./img/chooseCategory.jpg" alt="chooseCategory" width="30%" >
-
-### Venue List
-
-<img src="./img/displayVenues.jpg" alt="venueList" width="30%" >
-
-### Google Map
-
-<img src="./img/googleMap.jpg" alt="googleMap" width="30%" >
-
-### How to view path on Google Map from your current location to the venue
-- click on the red marker wher you want to go and then 
-- click on bottom right corner icons to view the route from the current location to the venue
-
-for demo view video 
-
-[<img alt="watch video" width="120px" src="./img/watchVideo.png" />](https://youtu.be/a3OAVr1kiqc)
 
 # Requirements
 
