@@ -1,6 +1,4 @@
-
-![Screenshot 2024-11-17 140525](https://github.com/user-attachments/assets/b93b8ae9-6cfe-4a2c-87fc-71b3bd00947b)
-
+![Screenshot 2024-11-18 112843](https://github.com/user-attachments/assets/35a3af9c-d04f-4de3-9f01-5eec794e0c78)
 
 <h1 align="center"> Smart-City-Traveller </h1>
 <p align="center">
